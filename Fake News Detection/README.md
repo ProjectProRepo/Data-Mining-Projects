@@ -2,6 +2,8 @@
 
 This project demonstrates how to build a **Fake News Detection System** using machine learning and data mining techniques. The system applies **Natural Language Processing (NLP)** and **classification algorithms** to distinguish between real and fake news articles.  
 
+👉 For the **full solution with code and detailed explanation**, check: **[Fake News Classifier in Python](https://www.projectpro.io/project-use-case/sequence-classification-with-lstm-rnn-in-python)**
+
 ---
 
 ## Project Objectives  
@@ -75,5 +77,3 @@ This project demonstrates how to build a **Fake News Detection System** using ma
 - [ProjectPro: Build a Fake News Detection System](https://www.projectpro.io/project-use-case/sequence-classification-with-lstm-rnn-in-python)  
 
 ---
-
-👉 For the **full solution with code and detailed explanation**, check: **[Fake News Classifier in Python](https://www.projectpro.io/project-use-case/sequence-classification-with-lstm-rnn-in-python)**
