@@ -7,29 +7,33 @@ This repository contains a collection of beginner-friendly and intermediate data
 
 ## Repository Structure
 
-Customer Segmentation/
-|-- Customer_Segmentation.ipynb
-|-- README.md
+## Repository Structure
 
-Fake News Detection/
-|-- FakeNewsDetection.ipynb
-|-- README.md
+Data-Mining-Projects/
+├── Customer Segmentation/
+│   ├── Customer_Segmentation.ipynb
+│   └── README.md
+│
+├── Fake News Detection/
+│   ├── FakeNewsDetection.ipynb
+│   └── README.md
+│
+├── Movie Recommendation System/
+│   ├── MovieRecommendationSystem.ipynb
+│   └── README.md
+│
+├── Twitter Sentiment Analysis/
+│   ├── Twitter_Sentiment_Analysis.ipynb
+│   └── README.md
+│
+├── datasets/
+│   ├── Boston_House_Pricing.zip
+│   ├── Mall_Customers.csv
+│   ├── PriceElasticity_datasets.zip
+│   └── Student Performance.zip
+│
+└── README.md
 
-Movie Recommendation System/
-|-- MovieRecommendationSystem.ipynb
-|-- README.md
-
-Twitter Sentiment Analysis/
-|-- Twitter_Sentiment_Analysis.ipynb
-|-- README.md
-
-datasets/
-|-- Boston_House_Pricing.zip
-|-- Mall_Customers.csv
-|-- PriceElasticity_datasets.zip
-|-- Student Performance.zip
-
-README.md
 
 ## Datasets
 
