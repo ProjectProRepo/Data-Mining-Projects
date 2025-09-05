@@ -68,5 +68,5 @@ This project demonstrates how to build a **Movie Recommendation System** using t
 
 ---
 
-👉 For the **full solution with code and detailed explanation**, visit: **[ProjectPro: Analyse Movie Ratings Data](https://www.projectpro.io/project-use-case/analyse-movie-ratings-data)**
+👉 For the **full solution with code and detailed explanation**, visit: **[MovieLens Dataset Analysis on Azure](https://www.projectpro.io/project-use-case/analyse-movie-ratings-data)**
 
