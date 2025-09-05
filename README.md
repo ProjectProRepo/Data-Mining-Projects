@@ -8,7 +8,7 @@ This repository contains a collection of beginner-friendly and intermediate data
 ## Repository Structure
 
 ## Repository Structure
-
+```
 Data-Mining-Projects/
 ├── Customer Segmentation/
 │   ├── Customer_Segmentation.ipynb
@@ -33,7 +33,7 @@ Data-Mining-Projects/
 │   └── Student Performance.zip
 │
 └── README.md
-
+```
 
 ## Datasets
 
