@@ -2,6 +2,8 @@
 
 This project demonstrates how to build a **Movie Recommendation System** using the popular MovieLens dataset. The system applies **data mining techniques** and **recommendation algorithms** to suggest movies based on user preferences.
 
+👉 For the **full solution with code and detailed explanation**, visit: **[MovieLens Dataset Analysis on Azure](https://www.projectpro.io/project-use-case/analyse-movie-ratings-data)**
+
 ---
 
 ## Project Objectives
@@ -67,6 +69,3 @@ This project demonstrates how to build a **Movie Recommendation System** using t
 - [ProjectPro: Analyse Movie Ratings Data](https://www.projectpro.io/project-use-case/analyse-movie-ratings-data)
 
 ---
-
-👉 For the **full solution with code and detailed explanation**, visit: **[MovieLens Dataset Analysis on Azure](https://www.projectpro.io/project-use-case/analyse-movie-ratings-data)**
-
