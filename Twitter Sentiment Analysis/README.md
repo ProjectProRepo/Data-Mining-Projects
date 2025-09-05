@@ -60,7 +60,7 @@ This project demonstrates how to perform **Sentiment Analysis on Twitter data** 
 
 ## Resources  
 - [TweePy Documentation](https://docs.tweepy.org/en/stable/)  
-- [ProjectPro: Twitter Sentiment Analysis Project](https://www.projectpro.io/project-use-case/ecommerce-product-reviews-ranking-sentiment-analysis)  
+- [ProjectPro: Ecommerce product reviews - Pairwise ranking and sentiment analysis](https://www.projectpro.io/project-use-case/ecommerce-product-reviews-ranking-sentiment-analysis)  
 
 ---  
 
@@ -69,4 +69,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---  
 
-👉 For the **complete industry-grade solution with code and explanation**, visit:  [ProjectPro: Twitter Sentiment Analysis Project](https://www.projectpro.io/project-use-case/ecommerce-product-reviews-ranking-sentiment-analysis)  
+👉 For the **complete industry-grade solution with code and explanation**, visit:  [ProjectPro: Ecommerce product reviews - Pairwise ranking and sentiment analysis](https://www.projectpro.io/project-use-case/ecommerce-product-reviews-ranking-sentiment-analysis)  
