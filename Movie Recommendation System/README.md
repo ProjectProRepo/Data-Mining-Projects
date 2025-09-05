@@ -55,14 +55,14 @@ This project demonstrates how to build a **Movie Recommendation System** using t
 
 ---
 
-## 📈 Expected Outcomes
+## Expected Outcomes
 - Gain insights into user behavior and movie preferences.
 - Build hands-on experience with data mining in recommendation systems.
 - Learn how platforms like Netflix or Amazon Prime personalize content.
 
 ---
 
-## 🔗 Resources
+## Resources
 - [Kaggle: The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)  
 - [ProjectPro: Analyse Movie Ratings Data](https://www.projectpro.io/project-use-case/analyse-movie-ratings-data)
 
