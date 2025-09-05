@@ -2,7 +2,7 @@
 
 This repository contains a collection of beginner-friendly and intermediate data mining projects with source code in Python. Each project demonstrates how to apply data mining techniques to real-world problems using popular datasets sourced from Kaggle and other open platforms.
 
-👉 Check out the detailed explanations, step-by-step guides, and more project ideas on our blog: [25+ Data Mining Project Ideas with Source Code](https://www.projectpro.io/article/data-mining-projects-ideas-with-source-code/467)
+👉 Check out the detailed explanations, step-by-step guides, and more project ideas on our blog: [15+ Data Mining Project Ideas with Source Code](https://www.projectpro.io/article/data-mining-projects-ideas-with-source-code/467)
 
 ## Repository Structure
 ```
