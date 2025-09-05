@@ -1,10 +1,10 @@
-# Movie Recommendation System 🎬
+# Movie Recommendation System
 
 This project demonstrates how to build a **Movie Recommendation System** using the popular MovieLens dataset. The system applies **data mining techniques** and **recommendation algorithms** to suggest movies based on user preferences.
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 - Explore and analyze movie rating data.
 - Visualize trends such as genre popularity, rating distribution, and user behavior.
 - Build different recommendation models:
