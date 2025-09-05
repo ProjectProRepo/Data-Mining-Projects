@@ -2,6 +2,8 @@
 
 This project demonstrates how to perform **Sentiment Analysis on Twitter data** to understand public opinion about a product or brand. The system applies **data mining techniques** and **text classification models** to categorize tweets as **Positive, Negative, or Neutral**.  
 
+👉 For the **complete industry-grade solution with code and explanation**, visit:  [ProjectPro: Ecommerce product reviews - Pairwise ranking and sentiment analysis](https://www.projectpro.io/project-use-case/ecommerce-product-reviews-ranking-sentiment-analysis)  
+
 ---  
 
 ## Project Objectives  
@@ -68,5 +70,3 @@ This project demonstrates how to perform **Sentiment Analysis on Twitter data** 
 This project is licensed under the MIT License. See the `LICENSE` file for details.  
 
 ---  
-
-👉 For the **complete industry-grade solution with code and explanation**, visit:  [ProjectPro: Ecommerce product reviews - Pairwise ranking and sentiment analysis](https://www.projectpro.io/project-use-case/ecommerce-product-reviews-ranking-sentiment-analysis)  
