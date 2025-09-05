@@ -39,7 +39,7 @@ Data-Mining-Projects/
 
 In the `datasets` folder, you will find various datasets that have been sourced from Kaggle and uploaded here for your convenience:
 
-- Customer Segmentation: https://www.kaggle.com/datasets/shwetabh123/mall-customers  
-- Students Performance: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams  
-- Boston House Prices: https://www.kaggle.com/datasets/vikrishnan/boston-house-prices  
-- Price Elasticity: https://onedrive.live.com/?id=7BA8848FE0992BD8%21278810&cid=7ba8848fe0992bd8&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdGdybWVDUGhLaDdrWUlhY09SRVZTLTNnVWp4Wnc  
+- [Customer Segmentation]( https://www.kaggle.com/datasets/shwetabh123/mall-customers) 
+- [Students Performance](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams) 
+- [Boston House Prices](https://www.kaggle.com/datasets/vikrishnan/boston-house-prices)
+- [Price Elasticity](https://onedrive.live.com/?id=7BA8848FE0992BD8%21278810&cid=7ba8848fe0992bd8&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdGdybWVDUGhLaDdrWUlhY09SRVZTLTNnVWp4Wnc)
